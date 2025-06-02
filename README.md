@@ -3,7 +3,7 @@
 
 ![Sudoku Solved](img/sudoku-solved.PNG)
 
-> Um jogo clássico de Sudoku feito com Java e Swing, ideal para portfólio de desenvolvedor.
+> Um jogo clássico de Sudoku feito com Java e Swing.
 
 ## 🎯 Objetivo
 
