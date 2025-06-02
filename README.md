@@ -1,7 +1,7 @@
 
 # 🧩 Sudoku Java - Swing Edition
 
-![Sudoku Solved](img/sudoku-solved.png)
+![Sudoku Solved](img/sudoku-solved.PNG)
 
 > Um jogo clássico de Sudoku feito com Java e Swing, ideal para portfólio de desenvolvedor.
 
@@ -115,4 +115,4 @@ Use este projeto como um exemplo de como construir aplicações Java com Swing, 
 
 Abaixo, o estado final resolvido do Sudoku com os valores fixos e editáveis:
 
-![Sudoku Solved](img/sudoku-solved.png)
+![Sudoku Solved](img/sudoku-solved.PNG)
